@@ -27,7 +27,7 @@ export const uploadBufferToS3 = async (buffer, filename, contentType) => {
   return s3.send(command);
 };
 
-// Delete multiple files from S3
+// Delete multiple files from S3.
 export const deleteMedias = async (files) => {
   if (!files.length) return;
 

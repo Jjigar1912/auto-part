@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.812.0",
+    "@aws-sdk/client-s3": "^3.812.0" ,
     "@shopify/admin-api-client": "^1.0.8",
     "@shopify/shopify-api": "^11.12.0",
     "axios": "^1.9.0",
